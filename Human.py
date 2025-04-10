@@ -16,7 +16,7 @@ class Human:
         self.__name = name
 
     def outconsole(self):
-        print(f"name={self.__name}\t fam={self.__fam}")
+        print(f"name={self.__name}\t fam={self.__fam}", end="\t")
 
 #__new__
 if __name__ == '__main__':
