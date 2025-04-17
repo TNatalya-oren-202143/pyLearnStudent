@@ -44,6 +44,8 @@ if __name__ == '__main__':
     zavcafedroi1.outconsole()
     cafedra1 = Cafedra("POVTAS", zavcafedroi1)
     cafedra1.outconsole()
+    groupe.saveGroup()
+    groupe.savecsv()
 
 
 
