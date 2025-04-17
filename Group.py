@@ -1,3 +1,6 @@
+
+
+
 class Group:
     def __init__(self, name, students=[]):
         self.__name = name
@@ -24,3 +27,4 @@ class Group:
         print("----------------")
         for st in self.__students:
             st.outconsole()
+

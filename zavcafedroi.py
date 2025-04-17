@@ -13,6 +13,5 @@ class Zavcafedroi(Teacher):
 
 
 if __name__ == '__main__':
-    teacher1 = Zavcafedroi("Ivan", "Ivaniw", "Assistent")
-    teacher1.outconsole()
-    print(teacher1.post)
+    zavcafedroi1 = Zavcafedroi("Ivan", "Ivaniw", "Assistent")
+    zavcafedroi1.outconsole()
