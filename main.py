@@ -33,7 +33,7 @@ from zavcafedroi import Zavcafedroi
 if __name__ == '__main__':
     student1 = Student("Ivan", "Ivaniw", "A18279")
     student2 = Student("Petr", "Petrow", "A18279")
-    student3 = Student("Nikolay", "Petrow", "A18279")
+    student3 = Student("Nikola", "Petrow", "A18279")
 
     groupe = Group("22Ping")
     groupe.students.append(student1)
